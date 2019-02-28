@@ -1,8 +1,9 @@
 import FlattenFind from './FlattenFind/FlattenFind';
+import FlattenUnique from './FlattenUnique/FlattenUnique';
 
 class Application {
   constructor() {
-    const output = [FlattenFind.retrieveValue()];
+    const output = [FlattenUnique.retrieveValue()];
     this.showOutput(output);
   }
 

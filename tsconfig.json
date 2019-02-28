@@ -6,6 +6,7 @@
     "outDir": "dist",
     "sourceMap": true,
     "removeComments": true,
+    "lib": ["dom", "es7"]
   },
   "files": [
     "./node_modules/@types/mocha/index.d.ts",

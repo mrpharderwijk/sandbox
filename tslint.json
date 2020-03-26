@@ -6,5 +6,5 @@
     "jsRules": {},
     "rules": {},
     "rulesDirectory": [],
-    "variable-name": ["allow-leading-underscore"],
+    "variable-name": ["allow-leading-underscore"]
 }
